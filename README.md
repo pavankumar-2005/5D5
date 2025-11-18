@@ -13,12 +13,13 @@ This repository contains 10 basic Flutter experiments covering widgets, layouts,
 ## 2. Flutter Widgets & Layouts
 2a. Explore various Flutter widgets (Text, Image, Container, etc.)  
 
-![Screenshot 2a](![WhatsApp Image 2025-11-18 at 19 54 38_2566791e](https://github.com/user-attachments/assets/086095f1-33b4-4a5e-8e7f-daafd2b02647)
+![Screenshot 2a](![WhatsApp Image 2025-11-18 at 21 00 43_ada2eaf6](https://github.com/user-attachments/assets/e6c1ac09-c9e6-4470-879e-b3f1c35f95d5)
 )
 
 2b. Implement different layout structures using Row, Column, and Stack widgets  
 
-![Screenshot 2b](![WhatsApp Image 2025-11-18 at 19 56 08_ddaecdd2](https://github.com/user-attachments/assets/9fd621fc-83f4-4ac3-aa3c-032fc682d7b7)
+![Screenshot 2b](![WhatsApp Image 2025-11-18 at 21 00 53_4a5b9d2a](https://github.com/user-attachments/assets/1223e210-4349-482c-905f-4a75dc651298)
+)
 )
 
 
